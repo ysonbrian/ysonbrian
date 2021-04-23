@@ -17,6 +17,7 @@
   <h3 align="center">📌 Github Stats</h3>
   <br />
   <br />
-  [![YoungDuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysonbrian)](https://github.com/anuraghazra/github-readme-stats)
-  [![YoungDuk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ysonbrian&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ysonbrian)
- 
+  
+  
+![YoungDuk's github stats](https://github-readme-stats.vercel.app/api?username=ysonbrian&show_icons=true)
+[![YoungDuk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ysonbrian&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ysonbrian)
